@@ -1,3 +1,4 @@
+# pip install moviePy ->use this command to install moviepy in pc before running the code
 import os
 from moviepy.editor import VideoFileClip
 
